@@ -10,7 +10,7 @@ This repository contains a comprehensive assignment designed for master's-level 
   Code:https://github.com/intimanjunath/deep-learning-tensor-Operations/blob/main/TensorFlow_2_0_Operations.ipynb
   
 - **PyTorch Operations:**  
-  Learn similar tensor operations using PyTorch. This section also utilizes [einops](https://github.com/arogozhnikov/einops) for additional tensor manipulation capabilities.
+  Learn similar tensor operations using PyTorch. This section also utilizes for additional tensor manipulation capabilities.
 
   Code:https://github.com/intimanjunath/deep-learning-tensor-Operations/blob/main/PyTorch_Operations.ipynb
 
