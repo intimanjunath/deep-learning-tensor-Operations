@@ -59,4 +59,4 @@ Both notebooks are fully compatible with Google Colab:
 - Run all cells to see the demonstrations and visualizations.
 
 ### YouTube Video Tutorial
-I have created a detailed YouTube video that explains the tensor operations, walks through the code, and shows how to run the notebooks. Watch the video below: 
+I have created a detailed YouTube video that explains the tensor operations, walks through the code, and shows how to run the notebooks. Watch the video below: https://www.youtube.com/watch?v=BdBHUS9_ISc
