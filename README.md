@@ -6,10 +6,12 @@ This repository contains a comprehensive assignment designed for master's-level 
 
 - **TensorFlow Operations:**  
   Explore basic and advanced tensor operations including creation, arithmetic, broadcasting, matrix multiplication, einsum operations, and gradient computations using TensorFlow 2.0.
+
   Code:https://github.com/intimanjunath/deep-learning-tensor-Operations/blob/main/TensorFlow_2_0_Operations.ipynb
   
 - **PyTorch Operations:**  
   Learn similar tensor operations using PyTorch. This section also utilizes [einops](https://github.com/arogozhnikov/einops) for additional tensor manipulation capabilities.
+
   Code:https://github.com/intimanjunath/deep-learning-tensor-Operations/blob/main/PyTorch_Operations.ipynb
 
 - **Visualization:**  
